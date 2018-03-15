@@ -1,3 +1,10 @@
+## About this branch
+
+This branch is where I keep patches that I rely on in https://github.com/tfry-git/almost.serious.synth , but which are
+not (yet) integrated upstream. Note that this branch may change in incompatible ways, and without prior notice. Do not
+do any active development work on it (or give me notice, beforehand). But you _can_ use it as a basis for compiling the
+almost.serious.synth .
+
 Arduino STM32  
 =============  
 
